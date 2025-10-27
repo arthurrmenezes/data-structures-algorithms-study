@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Algorithms\" />
+    <Folder Include="Algorithms\Sort\" />
   </ItemGroup>
 
 </Project>

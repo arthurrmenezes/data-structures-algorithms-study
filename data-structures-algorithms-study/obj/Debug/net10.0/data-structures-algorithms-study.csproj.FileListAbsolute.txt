@@ -1,0 +1,15 @@
+C:\Users\Arthur Menezes\source\repos\data-structures-algorithms-study\data-structures-algorithms-study\obj\Debug\net10.0\data-structures-algorithms-study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur Menezes\source\repos\data-structures-algorithms-study\data-structures-algorithms-study\obj\Debug\net10.0\data-structures-algorithms-study.AssemblyInfoInputs.cache
+C:\Users\Arthur Menezes\source\repos\data-structures-algorithms-study\data-structures-algorithms-study\obj\Debug\net10.0\data-structures-algorithms-study.AssemblyInfo.cs
+C:\Users\Arthur Menezes\source\repos\data-structures-algorithms-study\data-structures-algorithms-study\obj\Debug\net10.0\data-structures-algorithms-study.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Menezes\source\repos\data-structures-algorithms-study\data-structures-algorithms-study\obj\Debug\net10.0\data-structures-algorithms-study.sourcelink.json
+C:\Users\Arthur Menezes\source\repos\data-structures-algorithms-study\data-structures-algorithms-study\bin\Debug\net10.0\data-structures-algorithms-study.exe
+C:\Users\Arthur Menezes\source\repos\data-structures-algorithms-study\data-structures-algorithms-study\bin\Debug\net10.0\data-structures-algorithms-study.deps.json
+C:\Users\Arthur Menezes\source\repos\data-structures-algorithms-study\data-structures-algorithms-study\bin\Debug\net10.0\data-structures-algorithms-study.runtimeconfig.json
+C:\Users\Arthur Menezes\source\repos\data-structures-algorithms-study\data-structures-algorithms-study\bin\Debug\net10.0\data-structures-algorithms-study.dll
+C:\Users\Arthur Menezes\source\repos\data-structures-algorithms-study\data-structures-algorithms-study\bin\Debug\net10.0\data-structures-algorithms-study.pdb
+C:\Users\Arthur Menezes\source\repos\data-structures-algorithms-study\data-structures-algorithms-study\obj\Debug\net10.0\data-structures-algorithms-study.dll
+C:\Users\Arthur Menezes\source\repos\data-structures-algorithms-study\data-structures-algorithms-study\obj\Debug\net10.0\refint\data-structures-algorithms-study.dll
+C:\Users\Arthur Menezes\source\repos\data-structures-algorithms-study\data-structures-algorithms-study\obj\Debug\net10.0\data-structures-algorithms-study.pdb
+C:\Users\Arthur Menezes\source\repos\data-structures-algorithms-study\data-structures-algorithms-study\obj\Debug\net10.0\data-structures-algorithms-study.genruntimeconfig.cache
+C:\Users\Arthur Menezes\source\repos\data-structures-algorithms-study\data-structures-algorithms-study\obj\Debug\net10.0\ref\data-structures-algorithms-study.dll
